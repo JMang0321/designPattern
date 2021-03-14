@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jiangmang/Documents/designPattern/factory/simpleFactory/BMW/BMW.h
+iostream
+-
+string
+-
+
+/home/jiangmang/Documents/designPattern/factory/simpleFactory/BMW/BMW320.h
+BMW.h
+/home/jiangmang/Documents/designPattern/factory/simpleFactory/BMW/BMW.h
+
+/home/jiangmang/Documents/designPattern/factory/simpleFactory/BMW/BMW520.h
+BMW.h
+/home/jiangmang/Documents/designPattern/factory/simpleFactory/BMW/BMW.h
+
+/home/jiangmang/Documents/designPattern/factory/simpleFactory/BMW/SimpleFactory.h
+BMW.h
+/home/jiangmang/Documents/designPattern/factory/simpleFactory/BMW/BMW.h
+BMW320.h
+/home/jiangmang/Documents/designPattern/factory/simpleFactory/BMW/BMW320.h
+BMW520.h
+/home/jiangmang/Documents/designPattern/factory/simpleFactory/BMW/BMW520.h
+
+/home/jiangmang/Documents/designPattern/factory/simpleFactory/BMW/main.cpp
+SimpleFactory.h
+/home/jiangmang/Documents/designPattern/factory/simpleFactory/BMW/SimpleFactory.h
+

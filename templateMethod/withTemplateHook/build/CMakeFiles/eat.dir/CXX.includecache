@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jiangmang/Documents/designPattern/templateMethod/withTemplateHook/Person.h
+iostream
+-
+
+/home/jiangmang/Documents/designPattern/templateMethod/withTemplateHook/PersonHong.h
+Person.h
+/home/jiangmang/Documents/designPattern/templateMethod/withTemplateHook/Person.h
+
+/home/jiangmang/Documents/designPattern/templateMethod/withTemplateHook/PersonMing.h
+Person.h
+/home/jiangmang/Documents/designPattern/templateMethod/withTemplateHook/Person.h
+
+/home/jiangmang/Documents/designPattern/templateMethod/withTemplateHook/main.cpp
+PersonHong.h
+/home/jiangmang/Documents/designPattern/templateMethod/withTemplateHook/PersonHong.h
+PersonMing.h
+/home/jiangmang/Documents/designPattern/templateMethod/withTemplateHook/PersonMing.h
+

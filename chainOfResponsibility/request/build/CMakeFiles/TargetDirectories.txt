@@ -1,0 +1,3 @@
+/home/jiangmang/Documents/designPattern/chainOfResponsibility/request/build/CMakeFiles/rebuild_cache.dir
+/home/jiangmang/Documents/designPattern/chainOfResponsibility/request/build/CMakeFiles/edit_cache.dir
+/home/jiangmang/Documents/designPattern/chainOfResponsibility/request/build/CMakeFiles/manager.dir

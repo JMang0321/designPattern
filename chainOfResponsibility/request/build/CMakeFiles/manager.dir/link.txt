@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/manager.dir/chain.cpp.o  -o manager 

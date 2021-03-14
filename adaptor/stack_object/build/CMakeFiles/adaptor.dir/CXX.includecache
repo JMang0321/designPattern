@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jiangmang/Documents/designPattern/adaptor/stack_object/Queue.h
+deque.h
+/home/jiangmang/Documents/designPattern/adaptor/stack_object/deque.h
+sequence.h
+/home/jiangmang/Documents/designPattern/adaptor/stack_object/sequence.h
+
+/home/jiangmang/Documents/designPattern/adaptor/stack_object/Stack.h
+deque.h
+/home/jiangmang/Documents/designPattern/adaptor/stack_object/deque.h
+sequence.h
+/home/jiangmang/Documents/designPattern/adaptor/stack_object/sequence.h
+
+/home/jiangmang/Documents/designPattern/adaptor/stack_object/deque.h
+vector
+-
+iostream
+-
+
+/home/jiangmang/Documents/designPattern/adaptor/stack_object/main.cpp
+Queue.h
+/home/jiangmang/Documents/designPattern/adaptor/stack_object/Queue.h
+Stack.h
+/home/jiangmang/Documents/designPattern/adaptor/stack_object/Stack.h
+
+/home/jiangmang/Documents/designPattern/adaptor/stack_object/sequence.h
+

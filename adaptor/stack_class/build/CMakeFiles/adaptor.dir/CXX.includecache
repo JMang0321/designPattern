@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jiangmang/Documents/designPattern/adaptor/stack_class/adaptor.h
+deque.h
+/home/jiangmang/Documents/designPattern/adaptor/stack_class/deque.h
+stack.h
+/home/jiangmang/Documents/designPattern/adaptor/stack_class/stack.h
+
+/home/jiangmang/Documents/designPattern/adaptor/stack_class/deque.h
+vector
+-
+iostream
+-
+
+/home/jiangmang/Documents/designPattern/adaptor/stack_class/main.cpp
+adaptor.h
+/home/jiangmang/Documents/designPattern/adaptor/stack_class/adaptor.h
+
+/home/jiangmang/Documents/designPattern/adaptor/stack_class/stack.h
+vector
+-
+

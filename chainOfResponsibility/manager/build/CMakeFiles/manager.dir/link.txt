@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/manager.dir/main.cpp.o CMakeFiles/manager.dir/manager.cpp.o CMakeFiles/manager.dir/JuniorManager.cpp.o CMakeFiles/manager.dir/IntermediateManager.cpp.o CMakeFiles/manager.dir/SeniorManager.cpp.o  -o manager 
