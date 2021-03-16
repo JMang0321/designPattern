@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jiangmang/Documents/designPattern/singleton/singleton_2/main.cpp
+singleton_2.h
+/home/jiangmang/Documents/designPattern/singleton/singleton_2/singleton_2.h
+
+/home/jiangmang/Documents/designPattern/singleton/singleton_2/singleton_2.h
+iostream
+-
+
